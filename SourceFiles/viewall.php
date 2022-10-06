@@ -46,56 +46,7 @@
       <label>Recent Event</label>
     </div>
     <div class="eventobox">
-      <?php
-        include('connection.php');
-        $current_date=date("Y-m-d");
-        $queryd= "SELECT * FROM eventlogin WHERE status=0 ORDER BY event_date";
-        $result= mysqli_query($conn , $queryd);
-        $count= mysqli_num_rows($result);
-        if($result)
-        {
-          if($count > 0 )
-          {
-            while($row = mysqli_fetch_array($result))
-            {
-              if ($row['event_date'] > $current_date) 
-              {
-                $cal_date=$row['event_date'];
-                $dated=date('d',strtotime($cal_date));
-                $datem=date('m',strtotime($cal_date));
-                $datey=date('Y',strtotime($cal_date));
-                $monthname = date('M', mktime(0, 0, 0, $datem, 10));
-                echo "<div class='eventibox'>
-                  <div class='eventdate'>
-                    <p>" .$dated." </p><BR><p>" .$monthname." </p><BR><p>" .$datey." </p>
-                  </div>
-                  <div class='eventdetails'>
-                    <ul>
-                      <li>
-                        <i class='fa fa-user' aria-hidden='true'></i><p>". $row['user_full_name'] ."</p>  
-                      </li>
-                      <li>
-                        <i class='fa fa-phone' aria-hidden='true'></i><p>". $row['user_number'] ."</p>
-                      </li>
-                      <li>
-                        <i class='fa fa-clock-o' aria-hidden='true'></i><p>". $row['start_time'] ." to&nbsp;". $row['end_time'] ."</p>
-                      </li>
-                      <li>
-                        <i class='fa fa-location-arrow' aria-hidden='true'></i><p>". $row['city'] ."</p>
-                      </li>
-                    </ul>
-                  </div>
-                </div>";
-              }
-            }
-          }
-        }
-        mysqli_close($conn);
-      ?>
-    </div>
-    <?php
-      include 'footer.php';
-    ?>
+ 
   </body>
   
 <script type="text/javascript">
