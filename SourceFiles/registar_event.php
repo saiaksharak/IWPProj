@@ -33,7 +33,7 @@
 			<div class="fixedbox">
 				<span class="content">
 					<h4>Hello, Friend!</h4>
-					<p>Enter your personal details and start journey with us</p>
+					<p>Enter your personal details and start your journey with us</p>
 				</span>
 			</div>
 			<div class="scrollbox">
@@ -114,9 +114,9 @@
 										<label>Which one is more required ?:-</label>
 										<input type="text" list="need" name="need" placeholder="----Select----">
 										<datalist id="need">
-											<option value="Plasama"></option>
+											<option value="Plasma"></option>
 											<option value="Blood"></option>
-											<option value="Platelates"></option>	
+											<option value="Platelets"></option>	
 										</datalist>
 										<td rowspan="2">
 											<label>Why are you plan this Event ?:-</label>
@@ -134,7 +134,7 @@
 						</div>
 						<span>
 							<input type="checkbox" name="terms" id="checkbox" required>
-						</span><p>I agree to have my contact details broadcasted to the of B24U.net</p>
+						</span><p>I agree to have my contact details saved</p>
 						
 						<div class="btn">
 							<input type="submit" name="submit" value="Submit Details ">
@@ -234,7 +234,7 @@
 								<datalist id="need">
 									<option value="Plasama"></option>
 									<option value="Blood"></option>
-									<option value="Platelates"></option>	
+									<option value="Platelets"></option>	
 								</datalist>
 							</td>
 						</tr>
@@ -254,7 +254,7 @@
 				</div>
 				<span>
 					<input type="checkbox" name="terms" id="checkbox" required>
-				</span><p>I agree to have my contact details broadcasted to the B24U.net</p>
+				</span><p>I agree to have my contact details sa<ved/p>
 				
 				<div class="btn">
 					<input type="submit" name="submit" value="Submit Details ">
