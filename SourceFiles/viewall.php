@@ -24,7 +24,7 @@
         <li><a href="">Request Portal &nabla;</a>
           <ul>
             <li><a href="request_blood.php">Request Blood</a></li>
-            <li><a href="request_blood.php">Show Pending Request</a></li>
+            <li><a href="pending_request.php">Show Pending Request</a></li>
           </ul>
         </li>
         <li><a href="">Event Portal &nabla;</a>
