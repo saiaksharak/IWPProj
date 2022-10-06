@@ -25,7 +25,7 @@
 			<div class="fixedbox">
 				<span class="content">
 					<h4>Hello, Friend!</h4>
-					<p>Enter your personal details and start journey with us</p>
+					<p>Enter your personal details and start your journey with us</p>
 				</span>
 			</div>
 			<div class="scrollbox">
@@ -40,7 +40,7 @@
 										<input type="text" name="patient_name" pattern="[A-z ]+$" title="Use only character & white space" required>
 									</td>	
 									<td>
-										<label>Hospiatal Name:-</label>
+										<label>Hospital Name:-</label>
 										<input type="text" name="hospital_name" pattern="[A-z ]+$" title="Use only character" required>
 									</td>
 								</tr>
@@ -102,7 +102,7 @@
 								</tr>
 								<tr>
 									<td>
-										<label>Whem Required ?</label>
+										<label>When Required ?</label>
 										<input type="date" name="required_date" required>
 									</td>
 								</tr>
@@ -110,7 +110,7 @@
 						</div>
 						<span>
 							<input type="checkbox" name="terms" id="checkbox" required>
-						</span><p>I agree to have my contact details broadcasted to the B24U.net</p>
+						</span><p>I agree to have my contact details broadcasted</p>
 						
 						<div class="btn">
 							<input type="submit" name="submit" value="Submit Request">
@@ -212,7 +212,7 @@
 
 				<span>
 					<input type="checkbox" name="terms" id="checkbox" required>
-				</span><p>I agree to have my contact details broadcasted to the B24U.net</p>
+				</span><p>I agree to have my contact details saved</p>
 				
 				<div class="btn">
 					<input type="submit" name="submit" value="Submit Request">
