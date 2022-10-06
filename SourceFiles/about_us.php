@@ -25,16 +25,16 @@
 				<p>We connect blood donors with recipients, without any intermediary such as blood banks, for an efficient and seamless process.</p>			
 			</div>
 			<div class="box">
-				<h4>Get Notified!!!</h4>
-				<p>B24U Connect works with network partners to connect blood donors and recipients through an automated SMS service and a web app.</p>			
+				<h4>Why Neccessary></h4>
+				<p>Owwing to the recent pandemic, blood demand is at an all time high. Due to mismanagement, panic and improper communication, those in need have trouble finding their required donors. BloodVault is here to help remedy that by providing a proper information database. </p>			
 			</div>
 			<div class="box">
 				<h4>Tottaly Free</h4>
-				<p>B24U Connect's ultimate goal is to provide an easy-to-use, easy-to-access, fast, efficient, and reliable way to get life-saving blood, totally Free of cost.</p>
+				<p>BloodVaults's ultimate goal is to provide an easy-to-use, easy-to-access, fast, efficient, and reliable way to get life-saving blood, totally Free of cost.</p>
 			</div>
 			<div class="box">
 				<h4>Save Life</h4>
-				<p>We are a non profit foundation and our main objective is to make sure that everything is done to protect vulnerable persons. Help us by making a gift !!!</p>
+				<p>BloodVault is a non profit foundation and our main objective is to make sure that everything is done to protect those whose lives are in danger.</p>
 			</div>
 		</div>
 		<div class="counterbox">
