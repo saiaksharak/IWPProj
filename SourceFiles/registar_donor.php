@@ -21,13 +21,13 @@
 <body>
 		
 			<div class="heading fix">	
-				<label>Ragister as a Donor</label>
+				<label>Register as a Donor</label>
 			</div>
 		<div class="outerbox">
 			<div class="fixedbox">
 				<span class="content">
 					<h4>Hello, Friend!</h4>
-					<p>Enter your personal details and start journey with us</p>
+					<p>Enter your personal details and start your journey with us</p>
 				</span>
 			</div>
 			<div class="scrollbox">
@@ -134,7 +134,7 @@
 						</div>
 						<span>
 							<input type="checkbox" name="terms" id="checkbox" required  autocomplete="off">
-						</span><p>I agree to have my contact details broadcasted to the registered donors of B24U.net</p>
+						</span><p>I agree to have my contact details saved as blood donors</p>
 						
 						<div class="btn">
 							<input type="submit" name="submit" value="Submit">
@@ -265,7 +265,7 @@
 
 				<span>
 					<input type="checkbox" name="terms" id="checkbox" required >
-				</span><p>I agree to have my contact details broadcasted to the registered donors of B24U.net</p>
+				</span><p>I agree to have my contact details saved as blood donors</p>
 				<div class="btn">
 					<input type="submit" name="submit" value="Submit">
 					<input type="reset" name="submit" value="Reset">
