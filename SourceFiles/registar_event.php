@@ -33,7 +33,7 @@
 			<div class="fixedbox">
 				<span class="content">
 					<h4>Hello, Friend!</h4>
-					<p>Enter your personal details and start journey with us</p>
+					<p>Enter your personal details and start ypur journey with us</p>
 				</span>
 			</div>
 			<div class="scrollbox">
@@ -134,7 +134,7 @@
 						</div>
 						<span>
 							<input type="checkbox" name="terms" id="checkbox" required>
-						</span><p>I agree to have my contact details broadcasted to the of B24U.net</p>
+						</span><p>I agree to have my contact details saved</p>
 						
 						<div class="btn">
 							<input type="submit" name="submit" value="Submit Details ">
@@ -254,7 +254,7 @@
 				</div>
 				<span>
 					<input type="checkbox" name="terms" id="checkbox" required>
-				</span><p>I agree to have my contact details broadcasted to the B24U.net</p>
+				</span><p>I agree to have my contact details saved</p>
 				
 				<div class="btn">
 					<input type="submit" name="submit" value="Submit Details ">
